@@ -49,6 +49,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>gitdocker-integration</finalName>	</build>
-
+		<finalName>gitdocker-integration</finalName>
+		</build>
 </project>
